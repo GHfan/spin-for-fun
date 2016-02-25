@@ -8,7 +8,7 @@ import multiprocessing
 
 
 frames = [
-        [u"|", u"/", u"-", u"\\"],
+        u"|/-\\",
         [u"+-------",
          u"-+------",
          u"--+-----",
