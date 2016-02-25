@@ -4,5 +4,6 @@ Let's spin.
 @make_it_spin(frames, 'waiting..')
 def foo():
     time.sleep(5)
-		foo()
+
+foo()
 ```
